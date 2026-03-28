@@ -79,7 +79,7 @@ I am passionate about technology and I always try to keep myself updated with th
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Hyoukiinha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en?v=1" 
+    src="https://github-readme-stats.vercel.app/api?username=Hyoukiinha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&v=1" 
   />
   
 <img 
